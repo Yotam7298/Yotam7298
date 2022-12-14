@@ -1,6 +1,6 @@
-<p align="center">
-# Hi there, I'm Yotam 👋
-</p>
+<h1 align="center">
+Hi there, I'm Yotam 👋
+</h1>
 
 ## Tech Stack
 - HTML & CSS
