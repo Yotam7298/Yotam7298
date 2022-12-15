@@ -1,6 +1,3 @@
-<h1 align="center">
-Hi there, I'm Yotam 👋
-</h1>
 
 ## Tech Stack
 - HTML & CSS
@@ -19,6 +16,8 @@ Hi there, I'm Yotam 👋
  <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
  <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="8%" alt="Git logo">
 </p>
+
+## Future Goals
 <!--
 **Yotam7298/Yotam7298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
