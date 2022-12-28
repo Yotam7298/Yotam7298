@@ -18,6 +18,10 @@
 </p>
 
 ## Future Goals
+* Expand my knowledge of web development, learn and have more tools to create better web apps
+* Learn python, get more knowledge of code languages and AI.
+* 
+
 <!--
 **Yotam7298/Yotam7298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
