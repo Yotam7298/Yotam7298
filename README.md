@@ -1,5 +1,5 @@
-# Hi, I'm Yotam
-I am a junior web developer 
+<h1 align="center">Hi, I'm Yotam</h1>
+<p align="center">I am a junior web developer</p> 
 
 ## Tech Stack
 - HTML & CSS
