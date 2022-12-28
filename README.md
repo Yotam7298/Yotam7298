@@ -1,5 +1,5 @@
 # Hi, I'm Yotam
-### I am a junior web developer 
+I am a junior web developer 
 
 ## Tech Stack
 - HTML & CSS
